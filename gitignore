@@ -1,0 +1,16 @@
+*.class
+/dist/
+/.settings/
+.project
+.classpath
+rebel.xml
+.idea/
+*/logs/**
+*.log
+.idea
+complier.xml
+jarRepositories.xml
+misc.xml
+materail_*.xml
+vcs.xml
+/target
